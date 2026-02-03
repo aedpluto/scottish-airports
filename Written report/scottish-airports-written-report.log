@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.2)  2 FEB 2026 19:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.2)  3 FEB 2026 10:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -127,20 +127,20 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 ) (scottish-airports-written-report.aux)
 \openout1 = `scottish-airports-written-report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 (C:\Users\amyed\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -202,30 +202,42 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 15.
+(Font)              <14.4> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
-<../Graphics/scottish-airports-2.png, id=1, 445.1832pt x 346.896pt>
-File: ../Graphics/scottish-airports-2.png Graphic file (type png)
-<use ../Graphics/scottish-airports-2.png>
-Package pdftex.def Info: ../Graphics/scottish-airports-2.png  used on input lin
-e 25.
-(pdftex.def)             Requested size: 341.43437pt x 266.06798pt.
+(Font)              <7> on input line 16.
+
+Overfull \hbox (3.44585pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/12 in Scot-land. It asks, which air-ports are most crit-i-cal to S
+cot-land's air [] 
+ []
+
+<../Graphics/scottish-airports-for-report.png, id=1, 448.074pt x 348.3414pt>
+File: ../Graphics/scottish-airports-for-report.png Graphic file (type png)
+<use ../Graphics/scottish-airports-for-report.png>
+Package pdftex.def Info: ../Graphics/scottish-airports-for-report.png  used on 
+input line 26.
+(pdftex.def)             Requested size: 341.43437pt x 265.44382pt.
 [1
 
 {C:/Users/amyed/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <../Graphics/
-scottish-airports-2.png>]
-Overfull \hbox (4.82083pt too wide) in paragraph at lines 38--39
+scottish-airports-for-report.png>]
+Overfull \hbox (4.82083pt too wide) in paragraph at lines 39--40
 \OT1/cmr/m/n/12 This tells us which air-ports can reach other air-ports in the 
 fewest num-ber of flights. 
  []
 
+
+Overfull \hbox (0.60838pt too wide) in paragraph at lines 43--44
+[]\OT1/cmr/m/n/12 Below is a ta-ble show-ing the cen-tral-ity scores for the di
+f-fer-ent air-ports in [].  
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 46.
+(Font)              <12> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 46.
+(Font)              <8> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 46.
+(Font)              <6> on input line 47.
 [2] [3] (scottish-airports-written-report.aux)
  ***********
 LaTeX2e <2025-11-01>
@@ -234,7 +246,7 @@ L3 programming layer <2026-01-19>
  ) 
 Here is how much of TeX's memory you used:
  2919 strings out of 467866
- 47627 string characters out of 5418326
+ 47690 string characters out of 5418326
  470279 words of memory out of 5000000
  31798 multiletter control sequences out of 15000+600000
  632275 words of font info for 55 fonts, out of 8000000 for 9000
@@ -244,7 +256,7 @@ Here is how much of TeX's memory you used:
 cmbx12.pfb><C:/Users/amyed/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmr12.pfb><C:/Users/amyed/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmr17.pfb>
-Output written on scottish-airports-written-report.pdf (3 pages, 130553 bytes).
+Output written on scottish-airports-written-report.pdf (3 pages, 368907 bytes).
 
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
